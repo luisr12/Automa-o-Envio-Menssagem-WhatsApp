@@ -1,2 +1,6 @@
-# Automa-o-Envio-Menssagem-WhatsApp
-Aprenda uma forma de Automatizar utilizando a Linguagem de Programação Python
+# Disparo Automatico de Menssagens 
+Autor: Luis Ricardo / LuisXV
+Com o disparo de mensagem automatizado, garante eficiencia a comunicação com os seus clientes como:
+  - 🤑 Cobrança, notifica o cliente a se atentar as datas de vencimento de sua dupicata.
+  - 🎯 Comunicação, comunica os seus clientes com avisos e noticias.
+  
